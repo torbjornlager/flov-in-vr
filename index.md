@@ -17,8 +17,6 @@ Spatial
 Frame
 
 
-<<<<<<< HEAD
-
 Developing software
 
 - 
@@ -28,14 +26,7 @@ XR research labs:
 
 https://vhil.stanford.edu/
 https://xrlab.berkeley.edu/
-=======
-Developing software
-
-- 
 
 
-XR research labs:
 
-https://vhil.stanford.edu/
-https://xrlab.berkeley.edu/
->>>>>>> 92ab9ed7076ee9b9cdb6d3482c49ba02cd94b99c
+
