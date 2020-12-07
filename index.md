@@ -1,6 +1,6 @@
 ## TL;DR
 
-![Alt text](/img/vr-vendors.jpg?raw=true "Optional Title")
+![Alt text](img/vr-vendors.jpg?raw=true "Optional Title")
 
 
 Philosophy
