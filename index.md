@@ -23,6 +23,9 @@ Gamification
 Physical exercise
 
 
+<iframe src="https://hubs.mozilla.com/Zxtx6Bv/flov-in-vr/?embed_token=f563ab6c6fc77d151ffbd1056ff79bc1" style="width: 1024px; height: 768px;" allow="microphone; camera; vr; speaker;"></iframe>
+
+
 ## Teaching
 
 ### Linguistics
