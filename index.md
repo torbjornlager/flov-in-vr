@@ -6,6 +6,7 @@ Virtual Reality is really hot right now, and the pandemic
 - as an alternative to gathering IRL during the pandemic,
 - as a way to get some physical exercise during short breaks away from the computer,
 - as a subject for research
+- gamification
 
 ![Alt text](img/vr-vendors.jpg?raw=true "Optional Title")
 
@@ -20,6 +21,44 @@ Logic
 Gamification
 
 Physical exercise
+
+
+## Teaching
+
+### Linguistics
+
+### Kommunikatörsprogrammet
+
+
+
+## Research
+
+### Linguistics
+
+Communication
+
+Åsa Abelin
+
+
+### Computational linguistics
+
+Artificial conversational agents in VR (for gaming, etc.)
+
+### Digital humanities
+
+### Practical philosophy
+
+Ethical dilemmas
+
+### Theoretical philosophy
+
+### Logic
+
+### Theory of science
+
+
+
+
 
 ## Hardware
 
