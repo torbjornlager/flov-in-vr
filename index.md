@@ -11,19 +11,10 @@ Virtual Reality is really hot right now, and the pandemic
 ![Alt text](img/vr-vendors.jpg?raw=true "Optional Title")
 
 
-Philosophy
-  - practical
-  - theoretical
-Linguistics
-Theory of science
-Logic
+A proof-of-concept FLoV meeting room:
 
-Gamification
+[https://hubs.mozilla.com/E7GyaXa/flov-meeting/](https://hubs.mozilla.com/E7GyaXa/flov-meeting/)
 
-Physical exercise
-
-
-<iframe src="https://hubs.mozilla.com/Zxtx6Bv/flov-in-vr/?embed_token=f563ab6c6fc77d151ffbd1056ff79bc1" style="width: 1024px; height: 768px;" allow="microphone; camera; vr; speaker;"></iframe>
 
 
 ## Teaching
