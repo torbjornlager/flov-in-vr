@@ -85,7 +85,7 @@ VR is a communication medium that makes virtual experiences feel real and appear
 
 Åsa Abelin
 
-https://www.liebertpub.com/doi/10.1089/109493101300117956
+https://www.liebertpub.com/doi/10.1089/109493101300117956
 
 
 Searching Google Scholar using the terms "communication virtual reality" finds some papers:
@@ -108,7 +108,11 @@ History.
 Performing e.g. physics experiment in VR rather than IRL.
 
 
+## Developing VR worlds
 
+Developing VR world for the purpose of studying what's going on in them is feasible. Here too, Mozilla Hubs seems to offer the best possibilities.
+
+[https://ayman.medium.com/vr-research-in-mozilla-hubs-63fd3002eedf](https://ayman.medium.com/vr-research-in-mozilla-hubs-63fd3002eedf)
 
 ## Physical exercise
 
