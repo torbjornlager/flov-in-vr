@@ -1,8 +1,8 @@
-## TL;DR
+## Introduction
 
-Virtual Reality (VR) is hot right now, and the pandemic has made it even hotter.
+Virtual Reality (VR) is hot right now. The purpose of this document is to investigate whether VR present an opportunity for FLoV. Would it make sense to spend a bit of money on a pilot project?
 
-The purpose of this document is to investiga whether VR present an opportunity for FLoV. Would it make sense to spend some seed money on going further, and perhaps to apply for money from external sources?
+Here are some of the roles that VR might play for FLoV:
 
 - An alternative to Zoom and Teams for teaching, research seminars and meetings,
 - as an alternative to gathering IRL during a pandemic,
@@ -10,12 +10,12 @@ The purpose of this document is to investiga whether VR present an opportunity f
 - as a subject for research
 
 
-## Hardware
+## VR Hardware
 
 The Oculus Quest 2 is probably the headset to recommend right now, as it's comparatively cheap (3000 SEK + VAT), is standalone (thus no need to connect it to a computer), and features a large software app store.
 
 
-## Software
+## VR Software
 
 Market overview
 
@@ -26,7 +26,7 @@ Spatial
 Frame
 
 
-## Meetings
+## Meetings in VR
 
 A proof-of-concept FLoV meeting room:
 
@@ -34,7 +34,7 @@ A proof-of-concept FLoV meeting room:
 
 
 
-## Teaching
+## Teaching in VR
 
 gamification
 
@@ -44,13 +44,36 @@ gamification
 
 
 
-## Research
+## Research on VR
 
 XR research labs:
 
 [https://vhil.stanford.edu/](https://vhil.stanford.edu/)
 
 [https://xrlab.berkeley.edu/](https://xrlab.berkeley.edu/)
+
+
+### Practical philosophy
+
+Ethical dilemmas
+
+[https://scholar.google.se/scholar?q=Ethics+Virtual+Reality](https://scholar.google.se/scholar?q=Ethics+Virtual+Reality)
+
+### Theoretical philosophy
+
+
+[David Chalmers on VR](https://www.embodiedphilosophy.com/the-philosophy-of-virtual-reality/)
+
+
+A Google Scholar search using the terms "Philosophy of Virtual Reality" finds some papers:
+
+[https://scholar.google.se/scholar?q=Philosophy+of+Virtual+Reality](https://scholar.google.se/scholar?q=Philosophy+of+Virtual+Reality)
+
+
+### Logic
+
+Tarski's world
+
 
 
 ### Linguistics
@@ -70,28 +93,6 @@ A Google Scholar search using the terms "Communication in Virtual Reality" finds
 Artificial conversational agents in VR (for gaming, etc.)
 
 ### Digital humanities
-
-### Practical philosophy
-
-Ethical dilemmas
-
-[https://scholar.google.se/scholar?q=Ethics+Virtual+Reality](https://scholar.google.se/scholar?q=Ethics+Virtual+Reality)
-
-### Theoretical philosophy
-
-
-[David Chalmers on VR](https://www.embodiedphilosophy.com/the-philosophy-of-virtual-reality/)
-
-
-A Google Scholar search using the terms "Philosophy of Virtual Reality" finds some papers:
-
-[https://scholar.google.se/scholar?q=Philosophy+of+Virtual+Reality](https://scholar.google.se/scholar?q=Philosophy+of+Virtual+Reality)
-
-
-
-### Logic
-
-Tarski's world
 
 
 ### Theory of science
