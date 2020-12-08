@@ -61,6 +61,8 @@ XR research labs:
 
 In [this video](https://www.embodiedphilosophy.com/the-philosophy-of-virtual-reality/) David Chalmers "considers how VR is reframing and shedding new light on some of philosophy’s most enduring questions about cognition, epistemology and the nature of reality."
 
+<iframe width="840" height="473" src="https://www.youtube.com/embed/1ur7eIKiwuA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Searching Google Scholar using the terms "philosophy virtual reality" finds quite a few papers:
 
 [https://scholar.google.se/scholar?q=Philosophy+of+Virtual+Reality](https://scholar.google.se/scholar?q=Philosophy+of+Virtual+Reality)
