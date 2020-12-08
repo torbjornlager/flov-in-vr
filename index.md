@@ -64,7 +64,7 @@ https://scholar.google.se/scholar?q=Ethics+Virtual+Reality
 
 https://www.embodiedphilosophy.com/the-philosophy-of-virtual-reality/
 
-<iframe width="840" height="473" src="https://www.embodiedphilosophy.com/the-philosophy-of-virtual-reality/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe id="a1" width="840" height="473" src="https://www.embodiedphilosophy.com/the-philosophy-of-virtual-reality/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 A Google Scholar search using the terms "Philosophy of Virtual Reality" finds some papers:
 
@@ -102,7 +102,7 @@ Frame
 ## Physical exercise
 
 
-<iframe width="840" height="473" src="https://www.youtube.com/embed/fL2J1n8q0IE?start=200" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe id="a2" width="840" height="473" src="https://www.youtube.com/embed/fL2J1n8q0IE?start=200" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
