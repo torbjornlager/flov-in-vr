@@ -15,6 +15,22 @@ A proof-of-concept FLoV meeting room:
 [https://hubs.mozilla.com/E7GyaXa/flov-meeting/](https://hubs.mozilla.com/E7GyaXa/flov-meeting/)
 
 
+## Hardware
+
+The Oculus Quest 2 is probably the headset to recommend right now, as it's comparatively cheap (3000 SEK + VAT), is standalone (thus no need to connect it to a computer), and features a large software app store.
+
+
+## Software
+
+Market overview
+
+![Alt text](img/vr-vendors.jpg?raw=true "Optional Title")
+
+
+Spatial
+Frame
+
+
 
 ## Teaching
 
@@ -81,21 +97,6 @@ Tarski's world
 ?
 
 
-
-## Hardware
-
-The Oculus Quest 2 is probably the headset to recommend right now, as it's comparatively cheap (3000 SEK + VAT), is standalone (thus no need to connect it to a computer), and features a large software app store.
-
-
-## Software
-
-Market overview
-
-![Alt text](img/vr-vendors.jpg?raw=true "Optional Title")
-
-
-Spatial
-Frame
 
 
 ## Physical exercise
