@@ -10,9 +10,6 @@ The purpose of this document is to investiga whether VR present an opportunity f
 - as a subject for research
 
 
-![Alt text](img/vr-vendors.jpg?raw=true "Optional Title")
-
-
 A proof-of-concept FLoV meeting room:
 
 [https://hubs.mozilla.com/E7GyaXa/flov-meeting/](https://hubs.mozilla.com/E7GyaXa/flov-meeting/)
@@ -64,7 +61,10 @@ https://scholar.google.se/scholar?q=Ethics+Virtual+Reality
 
 ### Theoretical philosophy
 
+
 https://www.embodiedphilosophy.com/the-philosophy-of-virtual-reality/
+
+<iframe width="840" height="473" src="https://www.embodiedphilosophy.com/the-philosophy-of-virtual-reality/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 A Google Scholar search using the terms "Philosophy of Virtual Reality" finds some papers:
 
@@ -74,11 +74,12 @@ https://scholar.google.se/scholar?q=Philosophy+of+Virtual+Reality
 
 ### Logic
 
-Tarskis world
+Tarski's world
+
 
 ### Theory of science
 
-
+?
 
 
 
@@ -88,6 +89,11 @@ The Oculus Quest 2 is probably the headset to recommend right now, as it's compa
 
 
 ## Software
+
+Market overview
+
+![Alt text](img/vr-vendors.jpg?raw=true "Optional Title")
+
 
 Spatial
 Frame
