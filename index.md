@@ -1,12 +1,14 @@
 ## TL;DR
 
-Virtual Reality is really hot right now, and the pandemic 
+Virtual Reality (VR) is hot right now, and the pandemic has made it even hotter.
+
+The purpose of this document is to investiga whether VR present an opportunity for FLoV. Would it make sense to spend some seed money on going further, and perhaps to apply for money from external sources?
 
 - An alternative to Zoom and Teams for teaching, research seminars and meetings,
 - as an alternative to gathering IRL during a pandemic,
 - as a way to get some physical exercise during short breaks away from the computer,
 - as a subject for research
-- gamification
+
 
 ![Alt text](img/vr-vendors.jpg?raw=true "Optional Title")
 
@@ -19,13 +21,22 @@ A proof-of-concept FLoV meeting room:
 
 ## Teaching
 
+gamification
+
 ### Linguistics
 
-### Kommunikatörsprogrammet
+### "Kommunikatörsprogrammet"
 
 
 
 ## Research
+
+XR research labs:
+
+[](https://vhil.stanford.edu/)
+
+[](https://xrlab.berkeley.edu/)
+
 
 ### Linguistics
 
@@ -82,15 +93,15 @@ Spatial
 Frame
 
 
-Developing software
+## Physical exercise
 
-- 
+[Here](https://www.youtube.com/watch?v=fL2J1n8q0IE&list=FLfteh6uXAVAjQYCWhfNnzCg&index=1&t=200s)
 
 
-XR research labs:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fL2J1n8q0IE?start=200" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-https://vhil.stanford.edu/
-https://xrlab.berkeley.edu/
+
+
 
 
 
