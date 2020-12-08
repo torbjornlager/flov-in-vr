@@ -59,9 +59,9 @@ XR research labs:
 
 ### Theoretical philosophy
 
-In [this video](https://www.embodiedphilosophy.com/the-philosophy-of-virtual-reality/) David Chalmers "considers how VR is reframing and shedding new light on some of philosophy’s most enduring questions about cognition, epistemology and the nature of reality."
+In the following video, David Chalmers "considers how VR is reframing and shedding new light on some of philosophy’s most enduring questions about cognition, epistemology and the nature of reality."
 
-<iframe width="840" height="473" src="https://www.youtube.com/embed/1ur7eIKiwuA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/1ur7eIKiwuA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Searching Google Scholar using the terms "philosophy virtual reality" finds quite a few papers:
 
@@ -120,7 +120,7 @@ Developing VR world for the purpose of studying what's going on in them is feasi
 
 If nothing else, VR is a great way to release tensions in arms and shoulders after a lengthy work session in front of a computer. Beat Saber is one of the best games for that.  
 
-<iframe id="a2" width="840" height="473" src="https://www.youtube.com/embed/fL2J1n8q0IE?start=200" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/fL2J1n8q0IE?start=200" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
