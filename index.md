@@ -5,9 +5,8 @@ Virtual Reality (VR) is hot right now. The purpose of this document is to invest
 Here are some of the roles that VR might play for FLoV and its members:
 
 - An alternative to Zoom and Teams for teaching, research seminars and meetings,
-- as an alternative to gathering IRL during a pandemic,
+- as a subject for research in some of the areas represented at FLoV,
 - as a way to get some physical exercise during short breaks away from the computer,
-- as a subject for research
 
 
 ## VR Hardware
@@ -27,6 +26,8 @@ Frame
 
 
 ## Meetings in VR
+
+VR an alternative to gathering IRL during a pandemic.
 
 A proof-of-concept FLoV meeting room:
 
@@ -93,6 +94,8 @@ Searching Google Scholar using the terms "communication virtual reality" finds s
 
 Artificial conversational agents in VR (for gaming, etc.)
 
+
+
 ### Digital humanities
 
 
@@ -105,7 +108,7 @@ Artificial conversational agents in VR (for gaming, etc.)
 
 ## Physical exercise
 
-If nothing else, VR is a great way to release tensions in arms and shoulders after a work session in front och a computer. The game Beat Saber is good for that.  
+If nothing else, VR is a great way to release tensions in arms and shoulders after a lengthy work session in front of a computer. Beat Saber is one of the best games for that.  
 
 <iframe id="a2" width="840" height="473" src="https://www.youtube.com/embed/fL2J1n8q0IE?start=200" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
