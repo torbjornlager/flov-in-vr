@@ -10,11 +10,6 @@ The purpose of this document is to investiga whether VR present an opportunity f
 - as a subject for research
 
 
-A proof-of-concept FLoV meeting room:
-
-[https://hubs.mozilla.com/E7GyaXa/flov-meeting/](https://hubs.mozilla.com/E7GyaXa/flov-meeting/)
-
-
 ## Hardware
 
 The Oculus Quest 2 is probably the headset to recommend right now, as it's comparatively cheap (3000 SEK + VAT), is standalone (thus no need to connect it to a computer), and features a large software app store.
@@ -29,6 +24,13 @@ Market overview
 
 Spatial
 Frame
+
+
+## Meetings
+
+A proof-of-concept FLoV meeting room:
+
+[https://hubs.mozilla.com/E7GyaXa/flov-meeting/](https://hubs.mozilla.com/E7GyaXa/flov-meeting/)
 
 
 
