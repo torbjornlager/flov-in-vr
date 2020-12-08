@@ -25,11 +25,14 @@ Market overview
 
 ### Mozilla Hubs
 
+Mozilla Hubs is interesting because it is open source.
+
+Spoke
 
 
-###Spatial
+### Spatial
 
-###FrameVR
+### FrameVR
 
 
 ## Teaching, meetings and seminars in VR
