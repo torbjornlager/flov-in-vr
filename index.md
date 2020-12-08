@@ -2,7 +2,7 @@
 
 Virtual Reality (VR) is hot right now. The purpose of this document is to investigate whether VR present an opportunity for FLoV. Would it make sense to spend a bit of money on a pilot project?
 
-Here are some of the roles that VR might play for FLoV:
+Here are some of the roles that VR might play for FLoV and its members:
 
 - An alternative to Zoom and Teams for teaching, research seminars and meetings,
 - as an alternative to gathering IRL during a pandemic,
