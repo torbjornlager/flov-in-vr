@@ -95,10 +95,8 @@ Frame
 
 ## Physical exercise
 
-[Here](https://www.youtube.com/watch?v=fL2J1n8q0IE&list=FLfteh6uXAVAjQYCWhfNnzCg&index=1&t=200s)
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fL2J1n8q0IE?start=200" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/fL2J1n8q0IE?start=200" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
