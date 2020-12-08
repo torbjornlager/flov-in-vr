@@ -53,21 +53,20 @@ XR research labs:
 [https://xrlab.berkeley.edu/](https://xrlab.berkeley.edu/)
 
 
+### Theoretical philosophy
+
+In [this video](https://www.embodiedphilosophy.com/the-philosophy-of-virtual-reality/) David Chalmers "considers how VR is reframing and shedding new light on some of philosophy’s most enduring questions about cognition, epistemology and the nature of reality."
+
+Searching Google Scholar using the terms "philosophy virtual reality" finds quite a few papers:
+
+[https://scholar.google.se/scholar?q=Philosophy+of+Virtual+Reality](https://scholar.google.se/scholar?q=Philosophy+of+Virtual+Reality)
+
+
 ### Practical philosophy
 
 Ethical dilemmas
 
 [https://scholar.google.se/scholar?q=Ethics+Virtual+Reality](https://scholar.google.se/scholar?q=Ethics+Virtual+Reality)
-
-### Theoretical philosophy
-
-
-[David Chalmers on VR](https://www.embodiedphilosophy.com/the-philosophy-of-virtual-reality/)
-
-
-A Google Scholar search using the terms "Philosophy of Virtual Reality" finds some papers:
-
-[https://scholar.google.se/scholar?q=Philosophy+of+Virtual+Reality](https://scholar.google.se/scholar?q=Philosophy+of+Virtual+Reality)
 
 
 ### Logic
@@ -78,12 +77,14 @@ Tarski's world
 
 ### Linguistics
 
-Communication
+VR is a communication medium that makes virtual experiences feel real and appear unmediated. 
 
 Åsa Abelin
 
+https://www.liebertpub.com/doi/10.1089/109493101300117956
 
-A Google Scholar search using the terms "Communication in Virtual Reality" finds some papers:
+
+Searching Google Scholar using the terms "communication virtual reality" finds some papers:
 
 [https://scholar.google.se/scholar?q=Communication+in+Virtual+Reality](https://scholar.google.se/scholar?q=Communication+in+Virtual+Reality)
 
@@ -104,6 +105,7 @@ Artificial conversational agents in VR (for gaming, etc.)
 
 ## Physical exercise
 
+If nothing else, VR is a great way to release tensions in arms and shoulders after a work session in front och a computer. The game Beat Saber is good for that.  
 
 <iframe id="a2" width="840" height="473" src="https://www.youtube.com/embed/fL2J1n8q0IE?start=200" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
