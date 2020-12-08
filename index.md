@@ -30,9 +30,9 @@ gamification
 
 XR research labs:
 
-[](https://vhil.stanford.edu/)
+[https://vhil.stanford.edu/](https://vhil.stanford.edu/)
 
-[](https://xrlab.berkeley.edu/)
+[https://xrlab.berkeley.edu/](https://xrlab.berkeley.edu/)
 
 
 ### Linguistics
@@ -44,7 +44,7 @@ Communication
 
 A Google Scholar search using the terms "Communication in Virtual Reality" finds some papers:
 
-https://scholar.google.se/scholar?q=Communication+in+Virtual+Reality
+[https://scholar.google.se/scholar?q=Communication+in+Virtual+Reality](https://scholar.google.se/scholar?q=Communication+in+Virtual+Reality)
 
 
 ### Computational linguistics
@@ -57,18 +57,17 @@ Artificial conversational agents in VR (for gaming, etc.)
 
 Ethical dilemmas
 
-https://scholar.google.se/scholar?q=Ethics+Virtual+Reality
+[https://scholar.google.se/scholar?q=Ethics+Virtual+Reality](https://scholar.google.se/scholar?q=Ethics+Virtual+Reality)
 
 ### Theoretical philosophy
 
 
-https://www.embodiedphilosophy.com/the-philosophy-of-virtual-reality/
+[David Chalmers on VR](https://www.embodiedphilosophy.com/the-philosophy-of-virtual-reality/)
 
-<iframe id="a1" width="840" height="473" src="https://www.embodiedphilosophy.com/the-philosophy-of-virtual-reality/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 A Google Scholar search using the terms "Philosophy of Virtual Reality" finds some papers:
 
-https://scholar.google.se/scholar?q=Philosophy+of+Virtual+Reality
+[https://scholar.google.se/scholar?q=Philosophy+of+Virtual+Reality](https://scholar.google.se/scholar?q=Philosophy+of+Virtual+Reality)
 
 
 
