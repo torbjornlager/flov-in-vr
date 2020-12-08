@@ -5,13 +5,16 @@ Virtual Reality (VR) is hot right now. The purpose of this document is to invest
 Here are some of the roles that VR might play for FLoV and its members:
 
 - An alternative to Zoom and Teams for teaching, research seminars and meetings,
-- as a subject for research in some of the areas represented at FLoV,
-- as a way to get some physical exercise during short breaks away from the computer,
+- as a subject for research in some of the areas represented at FLoV, and
+- as a way to get some physical exercise during short breaks away from the computer-
+
 
 
 ## VR Hardware
 
 The Oculus Quest 2 is probably the headset to recommend right now, as it's comparatively cheap (3000 SEK + VAT), is standalone (thus no need to connect it to a computer), and features a large software app store.
+
+A possible problem with Oculus Quest is that it's owned by Facebook - and that a Facebook account is needed to use it.
 
 
 ## VR Software
@@ -20,12 +23,16 @@ Market overview
 
 ![Alt text](img/vr-vendors.jpg?raw=true "Optional Title")
 
-
-Spatial
-Frame
+### Mozilla Hubs
 
 
-## Meetings in VR
+
+###Spatial
+
+###FrameVR
+
+
+## Teaching, meetings and seminars in VR
 
 VR an alternative to gathering IRL during a pandemic.
 
@@ -34,18 +41,11 @@ A proof-of-concept FLoV meeting room:
 [https://hubs.mozilla.com/E7GyaXa/flov-meeting/](https://hubs.mozilla.com/E7GyaXa/flov-meeting/)
 
 
-
-## Teaching in VR
-
 gamification
 
-### Linguistics
-
-### "Kommunikatörsprogrammet"
 
 
-
-## Research on VR
+## Research involving VR
 
 XR research labs:
 
