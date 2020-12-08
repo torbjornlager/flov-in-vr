@@ -6,7 +6,7 @@ Here are some of the roles that VR might play for FLoV and its members:
 
 - An alternative to Zoom and Teams for teaching, research seminars and meetings,
 - as a subject for research in some of the areas represented at FLoV, and
-- as a way to get some physical exercise during short breaks away from the computer-
+- as a way to get some physical exercise during short breaks away from the computer.
 
 
 
@@ -37,7 +37,7 @@ Spoke
 
 ## Teaching, meetings and seminars in VR
 
-VR an alternative to gathering IRL during a pandemic.
+Zoom is drag, and VR might an alternative to gathering IRL during a pandemic.
 
 A proof-of-concept FLoV meeting room:
 
@@ -101,10 +101,11 @@ Artificial conversational agents in VR (for gaming, etc.)
 
 ### Digital humanities
 
+History.
 
 ### Theory of science
 
-?
+Performing e.g. physics experiment in VR rather than IRL.
 
 
 
