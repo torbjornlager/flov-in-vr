@@ -1,6 +1,6 @@
 ## Introduction
 
-Virtual Reality (VR) is hot right now. The purpose of this document is to investigate whether VR present an opportunity for FLoV. Would it make sense to spend a bit of money on a pilot project?
+Virtual Reality (VR) is hot right now. The purpose of this document is to investigate whether VR presents an opportunity for FLoV. Would it make sense to spend a bit of money on a pilot project?
 
 Here are some of the roles that VR might play for FLoV and its members:
 
@@ -14,7 +14,7 @@ Here are some of the roles that VR might play for FLoV and its members:
 
 The Oculus Quest 2 is probably the headset to recommend right now, as it's comparatively cheap (3000 SEK + VAT), is standalone (thus no need to connect it to a computer), and features a large software app store.
 
-A possible problem with Oculus Quest is that it's owned by Facebook - and that a Facebook account is needed to use it.
+A possible disadvantage is that Oculus Quest owned by Facebook - and that a Facebook account is needed to use it.
 
 
 ## VR Software
@@ -25,9 +25,9 @@ Market overview
 
 ### Mozilla Hubs
 
-Mozilla Hubs is interesting because it is open source.
+[Mozilla Hubs](https://hubs.mozilla.com) is interesting because it is web-based and open source. 
 
-Spoke
+[Mozilla Spoke](https://hubs.mozilla.com/spoke)
 
 
 ### Spatial
@@ -100,21 +100,27 @@ Searching Google Scholar using the terms "communication virtual reality" finds s
 Artificial conversational agents in VR (for gaming, etc.)
 
 
-
-### Digital humanities
-
-History.
-
 ### Theory of science
 
 Performing e.g. physics experiment in VR rather than IRL.
 
 
+### Digital humanities
+
+History.
+
+
 ## Developing VR worlds
 
-Developing VR world for the purpose of studying what's going on in them is feasible. Here too, Mozilla Hubs seems to offer the best possibilities.
+Developing VR world for the purpose of studying what's going on in them is feasible. Here too, Mozilla Hubs seems to offer the best option. [Here](https://ayman.medium.com/vr-research-in-mozilla-hubs-63fd3002eedf) is an article that describes what is possible.
 
-[https://ayman.medium.com/vr-research-in-mozilla-hubs-63fd3002eedf](https://ayman.medium.com/vr-research-in-mozilla-hubs-63fd3002eedf)
+
+## A few more tidbits
+
+Lund University has recently created a [Master's programme in VR and AR](https://www.lunduniversity.lu.se/lubas/i-uoh-lu-TAVAR).
+
+
+
 
 ## Physical exercise
 
