@@ -1,6 +1,6 @@
 ## Introduction
 
-Virtual Reality (VR) is hot right now. The purpose of this document is to investigate whether VR presents an opportunity for FLoV. Would it make sense to spend a bit of money on a pilot project?
+Virtual Reality (VR) is hot right now. The purpose of this document is to investigate whether VR presents an opportunity for FLoV, and if it would make sense to spend a bit of money on a pilot project.
 
 Here are some of the roles that VR might play for FLoV and its members:
 
@@ -23,6 +23,12 @@ A possible disadvantage is that Oculus Quest owned by Facebook - and that a Face
 Market overview
 
 ![Alt text](img/vr-vendors.jpg?raw=true "Optional Title")
+
+
+https://immersive.ly/best-vr-apps-productive-remote-meetings/
+
+https://immersive.ly/vr-for-virtual-meetings-ultimate-guide/
+
 
 ### Mozilla Hubs
 
