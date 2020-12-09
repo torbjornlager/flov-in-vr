@@ -8,6 +8,7 @@ Here are some of the roles that VR might play for FLoV and its members:
 - as a subject for research in some of the areas represented at FLoV, and
 - as a way to get some physical exercise during short breaks away from the computer.
 
+Limitations: VR (not AR)
 
 
 ## VR Hardware
@@ -25,9 +26,9 @@ Market overview
 
 ### Mozilla Hubs
 
-[Mozilla Hubs](https://hubs.mozilla.com) is interesting because it is web-based and open source. 
+[Mozilla Hubs](https://hubs.mozilla.com) is interesting because it is web-based and open source. Being web-based means that it inherits important properties from the Web (distributed, decentralized and open). Being open source makes it possible to modify and instrument it for research purposes (more on that later). A Hubs world can be accessed from *any* web browser, in either a VR headset (recommended!) or from a desk computer, mobile phone or tablet.
 
-[Mozilla Spoke](https://hubs.mozilla.com/spoke)
+[Spoke](https://hubs.mozilla.com/spoke) is a web-based editor for creating VR worlds that can then be imported into Hubs.
 
 
 ### Spatial
@@ -83,16 +84,15 @@ Tarski's world
 
 ### Linguistics
 
-VR is a communication medium that makes virtual experiences feel real and appear unmediated. 
-
-Åsa Abelin
-
-https://www.liebertpub.com/doi/10.1089/109493101300117956
-
+VR is a communication medium that makes virtual experiences feel real and appear unmediated. Looking at VR as 
 
 Searching Google Scholar using the terms "communication virtual reality" finds some papers:
 
 [https://scholar.google.se/scholar?q=Communication+in+Virtual+Reality](https://scholar.google.se/scholar?q=Communication+in+Virtual+Reality)
+
+Åsa Abelin
+
+https://www.liebertpub.com/doi/10.1089/109493101300117956
 
 
 ### Computational linguistics
