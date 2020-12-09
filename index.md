@@ -32,21 +32,20 @@ https://immersive.ly/vr-for-virtual-meetings-ultimate-guide/
 
 ### Mozilla Hubs
 
-[Mozilla Hubs](https://hubs.mozilla.com) is interesting because it is web-based and open source. Being web-based means that it inherits important properties from the Web (distributed, decentralized and open). Being open source makes it possible to modify and instrument it for research purposes (more on that later). A Hubs world can be accessed from *any* web browser, in either a VR headset (recommended!) or from a desk computer, mobile phone or tablet.
+[Mozilla Hubs](https://hubs.mozilla.com) is interesting because it is web-based and open source. A Hubs world can be accessed from *any* web browser, in either a VR headset (recommended!) or from a desk computer, mobile phone or tablet. Being web-based means that it inherits important properties from the Web (distributed, decentralized and open). Being open source makes it possible to modify and instrument it for research purposes (more on that later). 
 
 [Spoke](https://hubs.mozilla.com/spoke) is a web-based editor for creating VR worlds that can then be imported into Hubs.
-
-
-### Spatial
 
 ### FrameVR
 
 
+
+
 ## Teaching, meetings and seminars in VR
 
-Zoom is drag, and VR might an alternative to gathering IRL during a pandemic.
+Zoom is a drag, and VR might be an alternative to gathering IRL during a pandemic.
 
-A proof-of-concept FLoV meeting room:
+A proof-of-concept FLoV meeting room in Hubs:
 
 [https://hubs.mozilla.com/E7GyaXa/flov-meeting/](https://hubs.mozilla.com/E7GyaXa/flov-meeting/)
 
@@ -62,6 +61,7 @@ XR research labs:
 [https://vhil.stanford.edu/](https://vhil.stanford.edu/)
 
 [https://xrlab.berkeley.edu/](https://xrlab.berkeley.edu/)
+
 
 
 ### Theoretical philosophy
@@ -111,10 +111,6 @@ Artificial conversational agents in VR (for gaming, etc.)
 Performing e.g. physics experiment in VR rather than IRL.
 
 
-### Digital humanities
-
-History.
-
 
 ## Developing VR worlds
 
@@ -123,7 +119,7 @@ Developing VR world for the purpose of studying what's going on in them is feasi
 
 ## A few more tidbits
 
-Lund University has recently created a [Master's programme in VR and AR](https://www.lunduniversity.lu.se/lubas/i-uoh-lu-TAVAR).
+Lund University has recently created a [Master's programme in VR and AR](https://www.lunduniversity.lu.se/lubas/i-uoh-lu-TAVAR). Lund also has a [Virtual Reality Lab](http://www.design.lth.se/english/the-department/research-laboratories/virtual-reality-lab/).
 
 
 
