@@ -8,7 +8,7 @@ Here are some of the roles that VR might play for FLoV and its members:
 - as a subject for research in some of the areas represented at FLoV, and
 - as a way to get some physical exercise during short breaks away from the computer.
 
-Limitations: VR (not AR)
+Limitations: VR (not AR), web-based
 
 
 ## VR Hardware
