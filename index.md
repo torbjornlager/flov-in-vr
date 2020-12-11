@@ -60,8 +60,9 @@ XR research labs:
 
 [https://vhil.stanford.edu/](https://vhil.stanford.edu/)
 
-[https://xrlab.berkeley.edu/](https://xrlab.berkeley.edu/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HZKGde91Xfs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[https://xrlab.berkeley.edu/](https://xrlab.berkeley.edu/)
 
 
 ### Theoretical philosophy
@@ -69,6 +70,8 @@ XR research labs:
 In the following video, David Chalmers "considers how VR is reframing and shedding new light on some of philosophy’s most enduring questions about cognition, epistemology and the nature of reality."
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/1ur7eIKiwuA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In a longer talk, Chalmers discusses [Spatial Experience and Virtual Reality](https://youtu.be/IN0X0qmc8Lw).
 
 Searching Google Scholar using the terms "philosophy virtual reality" finds quite a few papers:
 
