@@ -15,7 +15,7 @@ Limitations: VR (not AR), web-based
 
 The Oculus Quest 2 is probably the headset to recommend right now, as it's comparatively cheap (3000 SEK + VAT), is standalone (thus no need to connect it to a computer), and features a large software app store.
 
-A possible disadvantage is that Oculus Quest owned by Facebook - and that a Facebook account is needed to use it.
+A possible disadvantage is that Oculus Quest is owned by Facebook - and that a Facebook account is needed to use it.
 
 
 ## VR Software
@@ -73,6 +73,8 @@ In the following video, David Chalmers "considers how VR is reframing and sheddi
 
 In a longer talk, Chalmers discusses [Spatial Experience and Virtual Reality](https://youtu.be/IN0X0qmc8Lw).
 
+An episode of the [The Voices of VR Podcast](https://voicesofvr.com/) is about a [Primer on Whitehead’s Process Philosophy as a Paradigm Shift & Foundation for Experiential Design](https://voicesofvr.com/primer-on-whiteheads-process-philosophy-as-a-paradigm-shift-foundation-for-experiential-design/)
+
 Searching Google Scholar using the terms "philosophy virtual reality" finds quite a few papers:
 
 [https://scholar.google.se/scholar?q=Philosophy+of+Virtual+Reality](https://scholar.google.se/scholar?q=Philosophy+of+Virtual+Reality)
@@ -81,6 +83,9 @@ Searching Google Scholar using the terms "philosophy virtual reality" finds quit
 ### Practical philosophy
 
 Ethical dilemmas
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/CXgY3YXxqJ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 [https://scholar.google.se/scholar?q=Ethics+Virtual+Reality](https://scholar.google.se/scholar?q=Ethics+Virtual+Reality)
 
@@ -93,7 +98,7 @@ Tarski's world
 
 ### Linguistics
 
-VR is a communication medium that makes virtual experiences feel real and appear unmediated. Looking at VR as 
+VR is a communication medium that makes virtual experiences feel real and appear unmediated. Talking to an avatar in VR is almost like talking face-to-face with someone in real life. 
 
 Searching Google Scholar using the terms "communication virtual reality" finds some papers:
 
@@ -117,7 +122,9 @@ Performing e.g. physics experiment in VR rather than IRL.
 
 ## Developing VR worlds
 
-Developing VR world for the purpose of studying what's going on in them is feasible. Here too, Mozilla Hubs seems to offer the best option. [Here](https://ayman.medium.com/vr-research-in-mozilla-hubs-63fd3002eedf) is an article that describes what is possible.
+Developing VR worlds for the purpose of studying what's going on in them is feasible. Here, as it's [open source](https://github.com/mozilla/hubs), Mozilla Hubs seems to offer the best option. [Here](https://ayman.medium.com/vr-research-in-mozilla-hubs-63fd3002eedf) is an article that describes what is possible.
+
+Mozilla Hubs with [A-Frame](https://aframe.io/).
 
 
 ## A few more tidbits
