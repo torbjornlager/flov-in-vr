@@ -111,7 +111,14 @@ https://www.liebertpub.com/doi/10.1089/109493101300117956
 
 ### Computational linguistics
 
-Artificial conversational agents in VR (for gaming, etc.)
+Artificial conversational agents in VR.
+
+[Human Interact](https://human-interact.com/)'s Starship Commander.
+
+[AI Voice Commands Enable Diplomacy as a Gameplay Mechanic with "Starship Commander"](http://voicesofvr.com/729-ai-voice-commands-enable-diplomacy-as-a-gameplay-mechanic-with-starship-commander)
+
+which uses AI-enabled, voice-activated commands in order to participate within an interactive story
+
 
 
 ### Theory of science
