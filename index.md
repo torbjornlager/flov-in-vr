@@ -100,6 +100,8 @@ Tarski's world
 
 VR is a communication medium that makes virtual experiences feel real and appear unmediated. Talking to an avatar in VR is almost like talking face-to-face with someone in real life. 
 
+<iframe width="720" height="405" src="https://www.youtube.com/embed/vfmVCDRv_Z0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Searching Google Scholar using the terms "communication virtual reality" finds some papers:
 
 [https://scholar.google.se/scholar?q=Communication+in+Virtual+Reality](https://scholar.google.se/scholar?q=Communication+in+Virtual+Reality)
