@@ -135,6 +135,12 @@ Developing VR worlds for the purpose of studying what's going on in them is feas
 
 Mozilla Hubs with [A-Frame](https://aframe.io/).
 
+https://hubs.mozilla.com/G4pMrbR/enchanting-tremendous-convention
+
+
+![Alt text](img/avatar.jpg?raw=true "Optional Title")
+
+
 
 ## A few more tidbits
 
