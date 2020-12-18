@@ -133,12 +133,15 @@ Performing e.g. physics experiment in VR rather than IRL.
 
 Developing VR worlds for the purpose of studying what's going on in them is feasible. Here, as it's [open source](https://github.com/mozilla/hubs), Mozilla Hubs seems to offer the best option. [Here](https://ayman.medium.com/vr-research-in-mozilla-hubs-63fd3002eedf) is an article that describes what is possible.
 
-Mozilla Hubs with [A-Frame](https://aframe.io/).
+Here's [my living room](https://hubs.mozilla.com/G4pMrbR/enchanting-tremendous-convention).
 
-https://hubs.mozilla.com/G4pMrbR/enchanting-tremendous-convention
-
+And here's my avatar:
 
 ![Alt text](img/avatar.jpg?raw=true "Optional Title")
+
+
+
+Mozilla Hubs with [A-Frame](https://aframe.io/).
 
 
 
