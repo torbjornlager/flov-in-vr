@@ -29,6 +29,8 @@ https://immersive.ly/best-vr-apps-productive-remote-meetings/
 
 https://immersive.ly/vr-for-virtual-meetings-ultimate-guide/
 
+https://www.forbes.com/sites/charliefink/2021/01/18/whats-next-after-zoom
+
 
 ### Mozilla Hubs
 
