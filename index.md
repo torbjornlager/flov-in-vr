@@ -139,7 +139,7 @@ Here's [my living room](https://hubs.mozilla.com/G4pMrbR/enchanting-tremendous-c
 
 And here's my avatar:
 
-![Alt text](img/avatar.png?raw=true "Optional Title")
+![Alt text](img/avatar.jpg?raw=true "Optional Title")
 
 
 
@@ -152,7 +152,7 @@ Mozilla Hubs with [A-Frame](https://aframe.io/).
 Lund University has recently created a [Master's programme in VR and AR](https://www.lunduniversity.lu.se/lubas/i-uoh-lu-TAVAR). Lund also has a [Virtual Reality Lab](http://www.design.lth.se/english/the-department/research-laboratories/virtual-reality-lab/).
 
 
-![Alt text](img/news-article.jpg?raw=true "Optional Title")
+![Alt text](img/news-article.png?raw=true "Optional Title")
 
 
 ## Physical exercise
