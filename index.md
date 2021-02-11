@@ -139,7 +139,7 @@ Here's [my living room](https://hubs.mozilla.com/G4pMrbR/enchanting-tremendous-c
 
 And here's my avatar:
 
-![Alt text](img/avatar.jpg?raw=true "Optional Title")
+![Alt text](img/avatar.png?raw=true "Optional Title")
 
 
 
