@@ -152,6 +152,7 @@ Mozilla Hubs with [A-Frame](https://aframe.io/).
 Lund University has recently created a [Master's programme in VR and AR](https://www.lunduniversity.lu.se/lubas/i-uoh-lu-TAVAR). Lund also has a [Virtual Reality Lab](http://www.design.lth.se/english/the-department/research-laboratories/virtual-reality-lab/).
 
 
+![Alt text](img/news-article.jpg?raw=true "Optional Title")
 
 
 ## Physical exercise
