@@ -8,8 +8,6 @@ Here are some of the roles that VR might play for FLoV and its members:
 - as a subject for research in some of the areas represented at FLoV, and
 - as a way to get some physical exercise during short breaks away from the computer.
 
-Limitations: VR (not AR), web-based
-
 
 ## VR Hardware
 
@@ -24,12 +22,11 @@ Market overview
 
 ![Alt text](img/vr-vendors.jpg?raw=true "Optional Title")
 
+A few links:
 
-https://immersive.ly/best-vr-apps-productive-remote-meetings/
+[Best apps for VR meetings 2021](https://immersive.ly/best-vr-apps-productive-remote-meetings/)
 
-https://immersive.ly/vr-for-virtual-meetings-ultimate-guide/
-
-https://www.forbes.com/sites/charliefink/2021/01/18/whats-next-after-zoom
+[What's next after Zoom](https://www.forbes.com/sites/charliefink/2021/01/18/whats-next-after-zoom)
 
 
 ### Mozilla Hubs
@@ -40,28 +37,26 @@ https://www.forbes.com/sites/charliefink/2021/01/18/whats-next-after-zoom
 
 ### FrameVR
 
-
+[FrameVR](https://framevr.io/) is perhaps more polished, but more difficult to modify since it's not open source.
 
 
 ## Teaching, meetings and seminars in VR
 
-Zoom is a drag, and VR might be an alternative to gathering IRL during a pandemic.
+Zoom is a drag, and VR might be an alternative to gathering IRL during a pandemic. A couple of links:
+
+[Virtual reality headsets for work 'could snowball'](https://www.bbc.com/news/business-56359061)
+
+[Trött på Zoom och Teams? Nu tar social VR över på företagen (In Swedish)](https://www.realtid.se/trott-pa-zoom-och-teams-nu-tar-social-vr-over-pa-foretagen)
+
 
 A proof-of-concept FLoV meeting room in Hubs:
 
 [https://hubs.mozilla.com/E7GyaXa/flov-meeting/](https://hubs.mozilla.com/E7GyaXa/flov-meeting/)
 
 
-gamification
-
-
-https://www.bbc.com/news/business-56359061
-
-[Trött på Zoom och Teams? Nu tar social VR över på företagen (In Swedish)](https://www.realtid.se/trott-pa-zoom-och-teams-nu-tar-social-vr-over-pa-foretagen)
-
 ## Research involving VR
 
-XR research labs:
+VR research labs:
 
 [https://vhil.stanford.edu/](https://vhil.stanford.edu/)
 
@@ -95,11 +90,6 @@ Ethical dilemmas
 [https://scholar.google.se/scholar?q=Ethics+Virtual+Reality](https://scholar.google.se/scholar?q=Ethics+Virtual+Reality)
 
 
-### Logic
-
-Tarski's world
-
-
 
 ### Linguistics
 
@@ -111,9 +101,7 @@ Searching Google Scholar using the terms "communication virtual reality" finds s
 
 [https://scholar.google.se/scholar?q=Communication+in+Virtual+Reality](https://scholar.google.se/scholar?q=Communication+in+Virtual+Reality)
 
-Åsa Abelin
-
-https://www.liebertpub.com/doi/10.1089/109493101300117956
+Åsa Abelin has [a relevant publication](https://www.liebertpub.com/doi/10.1089/109493101300117956).
 
 
 ### Computational linguistics
@@ -128,11 +116,6 @@ which uses AI-enabled, voice-activated commands in order to participate within a
 
 
 
-### Theory of science
-
-Performing e.g. physics experiment in VR rather than IRL.
-
-
 
 ## Developing VR worlds
 
@@ -143,7 +126,6 @@ Here's [my living room](https://hubs.mozilla.com/G4pMrbR/enchanting-tremendous-c
 And here's my avatar:
 
 ![Alt text](img/avatar.jpg?raw=true "Optional Title")
-
 
 
 Mozilla Hubs with [A-Frame](https://aframe.io/).
