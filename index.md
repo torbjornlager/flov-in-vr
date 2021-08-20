@@ -1,4 +1,4 @@
-## Introduction
+## FLoV in VR?
 
 Virtual Reality (VR) is hot right now. The purpose of this document is to investigate whether VR presents an opportunity for FLoV, and if it would make sense to spend a bit of money on a pilot project.
 
