@@ -55,6 +55,9 @@ A proof-of-concept FLoV meeting room in Hubs:
 gamification
 
 
+https://www.bbc.com/news/business-56359061
+
+[Trött på Zoom och Teams? Nu tar social VR över på företagen (In Swedish)](https://www.realtid.se/trott-pa-zoom-och-teams-nu-tar-social-vr-over-pa-foretagen)
 
 ## Research involving VR
 
