@@ -112,7 +112,7 @@ Artificial conversational agents in VR.
 
 [AI Voice Commands Enable Diplomacy as a Gameplay Mechanic with "Starship Commander"](http://voicesofvr.com/729-ai-voice-commands-enable-diplomacy-as-a-gameplay-mechanic-with-starship-commander)
 
-which uses AI-enabled, voice-activated commands in order to participate within an interactive story
+which uses AI-enabled, voice-activated commands in order to participate within an interactive story.
 
 
 
@@ -138,6 +138,8 @@ Lund University has recently created a [Master's programme in VR and AR](https:/
 
 
 ![Alt text](img/news-article.png?raw=true "Optional Title")
+
+A long (3h) and very fascinating [episode](https://podcasts.apple.com/se/podcast/voices-of-vr-podcast-designing-for-virtual-reality/id874947046) of the [The Voices of VR Podcast](https://voicesofvr.com/) in which pople speculate about the long-time future of VR.
 
 
 ## Physical exercise
