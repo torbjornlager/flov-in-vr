@@ -139,7 +139,7 @@ Lund University has recently created a [Master's programme in VR and AR](https:/
 
 ![Alt text](img/news-article.png?raw=true "Optional Title")
 
-A long (3h) and very fascinating [episode](https://podcasts.apple.com/se/podcast/voices-of-vr-podcast-designing-for-virtual-reality/id874947046) of the [The Voices of VR Podcast](https://voicesofvr.com/) in which pople speculate about the long-time future of VR.
+A long (3h) and very fascinating [episode](https://podcasts.apple.com/se/podcast/voices-of-vr-podcast-designing-for-virtual-reality/id874947046) of the [The Voices of VR Podcast](https://voicesofvr.com/) in which pople speculate about the long-time future and ultimate potential of VR.
 
 
 ## Physical exercise
